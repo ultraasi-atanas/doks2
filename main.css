@@ -10614,15 +10614,8 @@ a.docs-link {
   text-decoration: underline; 
 }
 
-.inactive {
-  position: relative;
-}
-.colour-overlay {
-  position: absolute;
-  height: 100%;
-  width: 100%; 
-  opacity: .7;
-  background: black;
+#footer-nav {
+  list-style: none;
 }
 
 /*# sourceMappingURL=main.css.map */
